@@ -1,3 +1,3 @@
 # Hello-world
 Ibrahim's first repository
-Hello everone , This is ibrahim form J&k.
+Hello everyone, This is ibrahim from J&k.
